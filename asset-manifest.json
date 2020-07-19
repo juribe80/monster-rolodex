@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/juribe80/monster-rolodex/static/css/main.988b711e.chunk.css",
+    "main.js": "/juribe80/monster-rolodex/static/js/main.8d18c7c7.chunk.js",
+    "main.js.map": "/juribe80/monster-rolodex/static/js/main.8d18c7c7.chunk.js.map",
+    "runtime-main.js": "/juribe80/monster-rolodex/static/js/runtime-main.e2e09e46.js",
+    "runtime-main.js.map": "/juribe80/monster-rolodex/static/js/runtime-main.e2e09e46.js.map",
+    "static/js/2.308474c0.chunk.js": "/juribe80/monster-rolodex/static/js/2.308474c0.chunk.js",
+    "static/js/2.308474c0.chunk.js.map": "/juribe80/monster-rolodex/static/js/2.308474c0.chunk.js.map",
+    "index.html": "/juribe80/monster-rolodex/index.html",
+    "precache-manifest.20479e37b4a387b3ad13cfa60f2c383c.js": "/juribe80/monster-rolodex/precache-manifest.20479e37b4a387b3ad13cfa60f2c383c.js",
+    "service-worker.js": "/juribe80/monster-rolodex/service-worker.js",
+    "static/css/main.988b711e.chunk.css.map": "/juribe80/monster-rolodex/static/css/main.988b711e.chunk.css.map",
+    "static/js/2.308474c0.chunk.js.LICENSE.txt": "/juribe80/monster-rolodex/static/js/2.308474c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2e09e46.js",
+    "static/js/2.308474c0.chunk.js",
+    "static/css/main.988b711e.chunk.css",
+    "static/js/main.8d18c7c7.chunk.js"
+  ]
+}
